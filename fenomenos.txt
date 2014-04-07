@@ -1,0 +1,52 @@
+W = Mundo
+I = Interfaz
+M = Máquina
+
+Sucesos relevantes:
+
+W:
+-La red de tránsito colapsa por la cantidad de autos
+-La red de tránsito colapsa por la cantidad de bicicletas
+-La red de tránsito colapsa por la cantidad de transportes de bicicletas
+-El usuario retira una bicicleta de alguna estación
+-El usuario devuelve una bicicleta en alguna estación
+-Una estación no dispone de bicicletas para retirar
+-El usuario nunca devuelve una bicicleta
+-Alguien se hace pasar por un usuario para retirar/devolver una bicicleta
+-Los camiones de la empresa de transporte proveen a una estación determinada con más bicicletas.
+-La empresa de transporte no se puede movilizar.
+-Se añade una nueva estación a la red.
+-La estación no abre.
+-El usuario sufre un accidente.
+-La bicicleta sufre un desperfecto.
+-El usuario rompe una bicicleta
+-El usuario devuelve una bicicleta que no está en condiciones.
+-El usuario devuelve una bicicleta fuera de horario.
+-El usuario devuelve una bicicleta en una estación cerrada
+-Ninguna estación dispone de bicicletas
+
+
+I:
+-El usuario se registra en el sistema
+-El sistema le niega a un usuario retirar/devolver una bicicleta.
+-Una estación le solicita al sistema más bicicletas
+-El sistema indica a la compañia de transporte que una estación requiere bicicletas
+-El sistema presenta estadísticas relevantes al administrador
+
+
+M:
+-El sistema calcula el mejor conjunto de estaciones que disponen de bicicletas para otra estación.
+-El sistema actualiza el estado de un usuario.
+-El sistema detecta una discrepancia entre la solicitud de un usuario y el estado del usuario en el sistema.
+-El sistema decide que un usuario puede proceder con la solicitud de un usuario.
+-El sistema registra estadísticas relevantes
+-El sistema actualiza el estado de una estación.
+
+
+No sé:
+-El sistema de una estación queda aislado de la conexión a la red.
+-El sistema de registro en línea no está funcionando.
+-Muchos usuarios se registran a la vez.
+-Un nuevo usuario no provee la información necesaria para inscribirse.
+-El usuario falla en registrar un usuario apto-VER
+-El usuario permite devolver una bicicleta cuando no debería ser posible-VER
