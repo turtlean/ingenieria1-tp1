@@ -34,11 +34,11 @@
     <node id="n1">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="34.0" width="230.32285395763643" x="-474.6978539576364" y="-428.375"/>
+          <y:Geometry height="34.0" width="230.32285395763643" x="-379.2871149995391" y="-785.2298065685166"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="156.900390625" x="36.71123166631821" y="1.03125">Mantener[Sistema de red
-de ciclovías]<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="106.3984375" x="61.96220822881821" y="1.03125">Mantener[Buen
+estado de la red]<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -52,7 +52,7 @@ de ciclovías]<y:LabelModel>
     <node id="n2">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="43.74999999999997" width="223.46666666666653" x="162.25265244689817" y="-454.375"/>
+          <y:Geometry height="43.74999999999997" width="223.46666666666653" x="-286.03436907065566" y="-679.5291026047569"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="178.19921875" x="22.633723958333263" y="5.90625">Lograr[Traslado de bicicletas
@@ -253,7 +253,7 @@ en el horario de 17 a 19 hs]<y:LabelModel>
           <y:Geometry height="43.75" width="282.33333333333337" x="731.9604910514275" y="16.096628779798635"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="182.939453125" x="49.696940104166686" y="5.90625">Se utilizan muchas bicicletas 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="182.939453125" x="49.69694010416663" y="5.90625">Se utilizan muchas bicicletas 
 en el horario de las 17 a 19hs<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -425,13 +425,12 @@ en el momento]<y:LabelModel>
       </data>
     </node>
     <node id="n23">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.cloud">
           <y:Geometry height="78.66971633691588" width="390.72968890840787" x="-1292.9241897557606" y="-382.6331022064786"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="305.951171875" x="42.389258516703876" y="23.36610816845797">Comodidad en el acceso de información relevante
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="305.951171875" x="42.389258516703876" y="23.366108168457913">Comodidad en el acceso de información relevante
 para el usuario (4)<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -465,7 +464,7 @@ para el usuario (4)<y:LabelModel>
           <y:Geometry height="34.0" width="189.64950339609015" x="-966.5211634741878" y="91.40315970338543"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="148.193359375" x="20.72807201054502" y="8.015625">Lograr[Proveer interfaz]<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="148.193359375" x="20.728072010545134" y="8.015625">Lograr[Proveer interfaz]<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -584,7 +583,7 @@ para el usuario (4)<y:LabelModel>
           <y:Geometry height="34.0" width="83.93534002229649" x="-1319.308347589626" y="86.90315970338543"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="52.333984375" x="15.800677823648243" y="8.015625">Sistema<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="52.333984375" x="15.80067782364813" y="8.015625">Sistema<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -596,13 +595,12 @@ para el usuario (4)<y:LabelModel>
       </data>
     </node>
     <node id="n33">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.cloud">
           <y:Geometry height="78.66971633691588" width="390.72968890840787" x="-895.4275428660443" y="-382.63310220647867"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="227.142578125" x="81.79355539170388" y="30.35048316845797">Evitar suplantación de indentidad (5)<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="227.142578125" x="81.79355539170399" y="30.35048316845797">Evitar suplantación de indentidad (5)<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -668,7 +666,7 @@ PIN unicamente]<y:LabelModel>
     <node id="n37">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="34.0" width="200.2607952154115" x="208.49836216994856" y="-357.40465160391716"/>
+          <y:Geometry height="34.0" width="200.2607952154115" x="103.2079152731327" y="-567.5391929402706"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="142.26953125" x="28.99563198270573" y="8.015625">Empresa de transporte<y:LabelModel>
@@ -705,7 +703,7 @@ PIN unicamente]<y:LabelModel>
           <y:Geometry height="34.0" width="200.2607952154115" x="-214.375" y="96.57456438565964"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="112.08203125" x="44.089381982705746" y="8.015625">Empleado auxiliar<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="112.08203125" x="44.08938198270573" y="8.015625">Empleado auxiliar<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -758,7 +756,7 @@ bicicletas]<y:LabelModel>
           <y:Geometry height="62.0" width="267.5" x="196.68064134091836" y="331.1409152202059"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="193.439453125" x="37.0302734375" y="15.03125">Lograr[Reposición normal ante 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="193.439453125" x="37.03027343749997" y="15.03125">Lograr[Reposición normal ante 
 solicitud de bicicletas]
 <y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -942,7 +940,7 @@ solicitud de bicicletas]
           <y:Geometry height="34.0" width="83.93534002229649" x="492.875145451689" y="583.4163397237544"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="52.333984375" x="15.800677823648243" y="8.015625">Sistema<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="52.333984375" x="15.8006778236483" y="8.015625">Sistema<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -989,20 +987,173 @@ transportes<y:LabelModel>
         </y:ShapeNode>
       </data>
     </node>
-    <edge id="e0" source="n6" target="n0">
-      <data key="d10">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-11.164644201140897" ty="0.0">
-            <y:Point x="-98.27499999999998" y="-513.4875"/>
-            <y:Point x="-94.56068656457455" y="-513.4875"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
+    <node id="n55">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="34.0" width="313.2079152731327" x="-225.5067270668178" y="-994.6989619479052"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.0" modelName="custom" textColor="#000000" visible="true" width="313.2079152731327" x="0.0" y="0.0">Lograr[Estimular el uso de la red
+de ciclovías]<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="parallelogram"/>
+        </y:ShapeNode>
       </data>
-    </edge>
-    <edge id="e1" source="n7" target="n5">
+    </node>
+    <node id="n56">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="50.635651189127884" width="313.2079152731327" x="-103.44842582106469" y="-785.2298065685166"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="50.635651189127884" modelName="custom" textColor="#000000" visible="true" width="313.2079152731327" x="0.0" y="0.0">Lograr[Promover beneficios de la
+red de ciclovías mediante campañas
+publicitarias]<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="parallelogram"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n57">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="34.0" width="313.2079152731327" x="36.613419695471634" y="-681.6619691959232"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.0" modelName="custom" textColor="#000000" visible="true" width="313.2079152731327" x="0.0" y="0.0">Lograr[Publicitar los beneficios de salud
+debido al uso de bicicletas]<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="parallelogram"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n58">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="62.017938844847095" width="313.2079152731327" x="-738.0108654935098" y="-813.2477454133636"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.017938844847095" modelName="custom" textColor="#000000" visible="true" width="313.2079152731327" x="0.0" y="0.0">Lograr[Facilitar uso y 
+administración de la red
+de ciclovías]<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="parallelogram"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n59">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="34.0" width="313.2079152731327" x="-794.046743183204" y="-669.7791026047569"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.0" modelName="custom" textColor="#000000" visible="true" width="313.2079152731327" x="0.0" y="0.0">Lograr[Desarrollar software para la
+administración de red de ciclovías]<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="parallelogram"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n60">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="50.635651189127884" width="313.2079152731327" x="337.9264090398674" y="-681.6619691959232"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="50.635651189127884" modelName="custom" textColor="#000000" visible="true" width="313.2079152731327" x="0.0" y="0.0">Lograr[Concientizar sobre los beneficios
+ecológicos de adoptar uso de la red
+de ciclovías]<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="parallelogram"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n61">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="50.635651189127884" width="313.2079152731327" x="631.7743582835853" y="-681.6619691959232"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="50.635651189127884" modelName="custom" textColor="#000000" visible="true" width="313.2079152731327" x="0.0" y="0.0">Lograr[Convencer que el uso de la red
+de ciclovías aliviará el colapso de la red 
+de transporte público]<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="parallelogram"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n62">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="34.0" width="313.2079152731327" x="204.8838921051095" y="-1053.111181124953"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.0" modelName="custom" textColor="#000000" visible="true" width="313.2079152731327" x="0.0" y="0.0">Lograr[Aliviar el colapso de la red 
+de transporte público]<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="parallelogram"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n63">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="34.0" width="313.2079152731327" x="529.3391044011054" y="-1053.111181124953"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.0" modelName="custom" textColor="#000000" visible="true" width="313.2079152731327" x="0.0" y="0.0">Lograr[Disminuir la cantidad de autos 
+en tránsito]<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="parallelogram"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge id="e0" source="n7" target="n5">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-13.050000000000068">
@@ -1014,7 +1165,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e2" source="n7" target="n4">
+    <edge id="e1" source="n7" target="n4">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="-2.3083333333331097" ty="-5.037500000000023">
@@ -1025,7 +1176,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e3" source="n7" target="n3">
+    <edge id="e2" source="n7" target="n3">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="35.5499999999999" ty="-17.799999999999983"/>
@@ -1034,7 +1185,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e4" source="n7" target="n1">
+    <edge id="e3" source="n7" target="n1">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="46.55242647860947" ty="0.0">
@@ -1046,7 +1197,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e5" source="n45" target="n3">
+    <edge id="e4" source="n45" target="n3">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1058,7 +1209,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e6" source="n9" target="n9">
+    <edge id="e5" source="n9" target="n9">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1070,7 +1221,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e7" source="n10" target="n45">
+    <edge id="e6" source="n10" target="n45">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1081,7 +1232,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e8" source="n12" target="n11">
+    <edge id="e7" source="n12" target="n11">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="78.125" sy="0.0" tx="0.0" ty="0.0">
@@ -1092,7 +1243,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e9" source="n13" target="n11">
+    <edge id="e8" source="n13" target="n11">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1104,7 +1255,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e10" source="n16" target="n15">
+    <edge id="e9" source="n16" target="n15">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1113,7 +1264,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e11" source="n16" target="n14">
+    <edge id="e10" source="n16" target="n14">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1124,7 +1275,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e12" source="n16" target="n10">
+    <edge id="e11" source="n16" target="n10">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="1.6083333333334622" ty="4.046404682274215"/>
@@ -1133,7 +1284,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e13" source="n16" target="n16">
+    <edge id="e12" source="n16" target="n16">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="1.7023411371239376" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1142,7 +1293,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e14" source="n17" target="n16">
+    <edge id="e13" source="n17" target="n16">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-1.004250278706877">
@@ -1154,7 +1305,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e15" source="n19" target="n15">
+    <edge id="e14" source="n19" target="n15">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-2.077268673355661"/>
@@ -1163,7 +1314,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e16" source="n20" target="n17">
+    <edge id="e15" source="n20" target="n17">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1172,8 +1323,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e17" source="n9" target="n7">
-      <data key="d9"/>
+    <edge id="e16" source="n9" target="n7">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1185,8 +1335,7 @@ transportes<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e18" source="n8" target="n7">
-      <data key="d9"/>
+    <edge id="e17" source="n8" target="n7">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1196,8 +1345,7 @@ transportes<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e19" source="n21" target="n9">
-      <data key="d9"/>
+    <edge id="e18" source="n21" target="n9">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1207,8 +1355,7 @@ transportes<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e20" source="n22" target="n9">
-      <data key="d9"/>
+    <edge id="e19" source="n22" target="n9">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1218,8 +1365,7 @@ transportes<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e21" source="n23" target="n22">
-      <data key="d9"/>
+    <edge id="e20" source="n23" target="n22">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1250,8 +1396,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e22" source="n24" target="n21">
-      <data key="d9"/>
+    <edge id="e21" source="n24" target="n21">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1263,8 +1408,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e23" source="n25" target="n21">
-      <data key="d9"/>
+    <edge id="e22" source="n25" target="n21">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1276,8 +1420,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e24" source="n21" target="n23">
-      <data key="d9"/>
+    <edge id="e23" source="n21" target="n23">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1297,9 +1440,8 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e25" source="n28" target="n24">
+    <edge id="e24" source="n28" target="n24">
       <data key="d8"/>
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1309,9 +1451,8 @@ transportes<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e26" source="n27" target="n25">
+    <edge id="e25" source="n27" target="n25">
       <data key="d8"/>
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1321,9 +1462,8 @@ transportes<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e27" source="n26" target="n22">
+    <edge id="e26" source="n26" target="n22">
       <data key="d8"/>
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1333,8 +1473,7 @@ transportes<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e28" source="n29" target="n8">
-      <data key="d9"/>
+    <edge id="e27" source="n29" target="n8">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1346,8 +1485,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e29" source="n30" target="n8">
-      <data key="d9"/>
+    <edge id="e28" source="n30" target="n8">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1359,8 +1497,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e30" source="n31" target="n29">
-      <data key="d9"/>
+    <edge id="e29" source="n31" target="n29">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1370,8 +1507,7 @@ transportes<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e31" source="n32" target="n30">
-      <data key="d9"/>
+    <edge id="e30" source="n32" target="n30">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1381,8 +1517,7 @@ transportes<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e32" source="n34" target="n14">
-      <data key="d9"/>
+    <edge id="e31" source="n34" target="n14">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1394,8 +1529,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e33" source="n35" target="n14">
-      <data key="d9"/>
+    <edge id="e32" source="n35" target="n14">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1407,8 +1541,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e34" source="n33" target="n34">
-      <data key="d9"/>
+    <edge id="e33" source="n33" target="n34">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1432,8 +1565,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e35" source="n35" target="n33">
-      <data key="d9"/>
+    <edge id="e34" source="n35" target="n33">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1464,8 +1596,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e36" source="n18" target="n34">
-      <data key="d9"/>
+    <edge id="e35" source="n18" target="n34">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1477,8 +1608,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e37" source="n36" target="n35">
-      <data key="d9"/>
+    <edge id="e36" source="n36" target="n35">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1490,8 +1620,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e38" source="n2" target="n6">
-      <data key="d9"/>
+    <edge id="e37" source="n2" target="n6">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1503,8 +1632,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e39" source="n37" target="n2">
-      <data key="d9"/>
+    <edge id="e38" source="n37" target="n2">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1516,8 +1644,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e40" source="n1" target="n6">
-      <data key="d9"/>
+    <edge id="e39" source="n1" target="n6">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1529,8 +1656,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e41" source="n38" target="n4">
-      <data key="d9"/>
+    <edge id="e40" source="n38" target="n4">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1542,8 +1668,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e42" source="n39" target="n38">
-      <data key="d9"/>
+    <edge id="e41" source="n39" target="n38">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1555,8 +1680,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e43" source="n11" target="n5">
-      <data key="d9"/>
+    <edge id="e42" source="n11" target="n5">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1568,8 +1692,7 @@ transportes<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="e44" source="n11" target="n40">
-      <data key="d9"/>
+    <edge id="e43" source="n11" target="n40">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1581,8 +1704,7 @@ transportes<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="e45" source="n46" target="n40">
-      <data key="d9"/>
+    <edge id="e44" source="n46" target="n40">
       <data key="d10">
         <y:QuadCurveEdge straightness="0.1">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1591,8 +1713,7 @@ transportes<y:LabelModel>
         </y:QuadCurveEdge>
       </data>
     </edge>
-    <edge id="e46" source="n41" target="n46">
-      <data key="d9"/>
+    <edge id="e45" source="n41" target="n46">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1601,8 +1722,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e47" source="n42" target="n46">
-      <data key="d9"/>
+    <edge id="e46" source="n42" target="n46">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1611,8 +1731,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e48" source="n43" target="n41">
-      <data key="d9"/>
+    <edge id="e47" source="n43" target="n41">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1621,8 +1740,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e49" source="n44" target="n42">
-      <data key="d9"/>
+    <edge id="e48" source="n44" target="n42">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1631,8 +1749,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e50" source="n47" target="n12">
-      <data key="d9"/>
+    <edge id="e49" source="n47" target="n12">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1644,8 +1761,7 @@ transportes<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="e51" source="n48" target="n12">
-      <data key="d9"/>
+    <edge id="e50" source="n48" target="n12">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1657,8 +1773,7 @@ transportes<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="e52" source="n51" target="n47">
-      <data key="d9"/>
+    <edge id="e51" source="n51" target="n47">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1670,8 +1785,7 @@ transportes<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="e53" source="n51" target="n49">
-      <data key="d9"/>
+    <edge id="e52" source="n51" target="n49">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1680,8 +1794,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e54" source="n51" target="n50">
-      <data key="d9"/>
+    <edge id="e53" source="n51" target="n50">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1690,8 +1803,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e55" source="n52" target="n49">
-      <data key="d9"/>
+    <edge id="e54" source="n52" target="n49">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1700,8 +1812,7 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e56" source="n53" target="n50">
-      <data key="d9"/>
+    <edge id="e55" source="n53" target="n50">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1712,13 +1823,22 @@ transportes<y:LabelModel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e57" source="n54" target="n48">
-      <data key="d9"/>
+    <edge id="e56" source="n54" target="n48">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e57" source="n6" target="n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
