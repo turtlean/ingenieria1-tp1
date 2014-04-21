@@ -1,66 +1,66 @@
 W = Mundo
 I = Interfaz
-M = Máquina
+M = MÃ¡quina
 
 Sucesos relevantes:
 
 W:
--Usuario va a buscar una bicicleta a una estación de la periferia.
--Usuario va a buscar una bicicleta a una estación del centro.
--Usuario se identifica en una estación.
--Empleado rechaza solicitud de retiro de bicicleta debido a penalización.
--El usuario retira una bicicleta de alguna estación
--El usuario devuelve una bicicleta en alguna estación
--Una estación no dispone de bicicletas para retirar
+-Usuario va a buscar una bicicleta a una estaciÃ³n de la periferia.
+-Usuario va a buscar una bicicleta a una estaciÃ³n del centro.
+-Usuario se identifica en una estaciÃ³n.
+-Empleado rechaza solicitud de retiro de bicicleta debido a penalizaciÃ³n.
+-El usuario retira una bicicleta de alguna estaciÃ³n
+-El usuario devuelve una bicicleta en alguna estaciÃ³n
+-Una estaciÃ³n no dispone de bicicletas para retirar
 -El usuario nunca devuelve una bicicleta
 -Usuario (que ya dispone de una) solicita otra bicicleta.
--Usuario se desplaza entre estación y estación.
+-Usuario se desplaza entre estaciÃ³n y estaciÃ³n.
 -Alguien se hace pasar por un usuario para retirar/devolver una bicicleta
--Los camiones de la empresa de transporte proveen una estación con más bicicletas.
--Los camiones de la empresa de transporte retiran bicicletas de una estación.
--Se añade una nueva estación a la red.
+-Los camiones de la empresa de transporte proveen una estaciÃ³n con mÃ¡s bicicletas.
+-Los camiones de la empresa de transporte retiran bicicletas de una estaciÃ³n.
+-Se aÃ±ade una nueva estaciÃ³n a la red.
 -La gente se traslada ida y vuelta a su trabajo/casa en una franja horaria reducida, llamada "hora pico".
--La estación no abre.
+-La estaciÃ³n no abre.
 -El usuario sufre un accidente.
 -La bicicleta sufre un desperfecto.
 -El usuario rompe una bicicleta
--Usuario olvida contraseña
+-Usuario olvida contraseÃ±a
 -Usuario espera por bicicleta
--El usuario devuelve una bicicleta que no está en condiciones.
+-El usuario devuelve una bicicleta que no estÃ¡ en condiciones.
 -El usuario devuelve una bicicleta fuera de horario.
--El usuario devuelve una bicicleta en una estación cerrada
--Ninguna estación dispone de bicicletas
--Un nuevo usuario no provee la información necesaria para inscribirse.
--Empleado le entrega una bicicleta a un usuario que no está registrado.
--Empleado le entrega una bicicleta a un usuario que está penalizado.
--Gobierno entrega más bicicletas a la empresa de transportes.
--Sistema pierde la conexión.
+-El usuario devuelve una bicicleta en una estaciÃ³n cerrada
+-Ninguna estaciÃ³n dispone de bicicletas
+-Un nuevo usuario no provee la informaciÃ³n necesaria para inscribirse.
+-Empleado le entrega una bicicleta a un usuario que no estÃ¡ registrado.
+-Empleado le entrega una bicicleta a un usuario que estÃ¡ penalizado.
+-Gobierno entrega mÃ¡s bicicletas a la empresa de transportes.
+-Sistema pierde la conexiÃ³n.
 -La empresa de transporte no cumple con el tiempo estimado en trasladar las bicicletas.
--Una estación queda aislada
+-Una estaciÃ³n queda aislada
 -La empresa de transporte no se puede movilizar.
 -Muchos usuarios se registran a la vez.
 
 
 I:
--El sistema indica a la compañia de transporte que una estación requiere/tiene exceso de bicicletas y le indica desde dónde y hacia dónde desplazarlas
--Administrador realiza consulta de estadísticas relevantes al sistema (Falta en el diagrama de contexto)
--La app envía consulta al sistema
--La app envía datos de registración de usuario al sistema.
+-El sistema indica a la compaÃ±ia de transporte que una estaciÃ³n requiere/tiene exceso de bicicletas y le indica desde dÃ³nde y hacia dÃ³nde desplazarlas
+-Administrador realiza consulta de estadÃ­sticas relevantes al sistema (Falta en el diagrama de contexto)
+-La app envÃ­a consulta al sistema
+-La app envÃ­a datos de registraciÃ³n de usuario al sistema.
 -El sistema le responde consulta a la app.
--Empleado solicita reposición o notifica exceso de bicicletas en una determinada estación
--Empleado envía información de autenticación de un usuario para ser validada por el sistema.
--Sistema devuelve al empleado el resultado de autenticación válida o inválida
--Empleado ingresa modificación de stock de bicicletas para una determinada estación.
+-Empleado solicita reposiciÃ³n o notifica exceso de bicicletas en una determinada estaciÃ³n
+-Empleado envÃ­a informaciÃ³n de autenticaciÃ³n de un usuario para ser validada por el sistema.
+-Sistema devuelve al empleado el resultado de autenticaciÃ³n vÃ¡lida o invÃ¡lida
+-Empleado ingresa modificaciÃ³n de stock de bicicletas para una determinada estaciÃ³n.
 
 
 M:
--El sistema calcula el mejor conjunto de estaciones que disponen de bicicletas para otra estación.
+-El sistema calcula el mejor conjunto de estaciones que disponen de bicicletas para otra estaciÃ³n.
 -El sistema actualiza el estado de un usuario.
 -El sistema detecta una discrepancia entre la solicitud de un usuario y el estado del usuario en el sistema.
--El sistema registra estadísticas relevantes
--El sistema actualiza el estado de una estación.
--El sistema recalcula distribución de bicicletas cuando se informa la caída de conexión con una estación.
--El sistema recalcula distribución de bicicletas cuando se agrega una estación a la red.
--El sistema recalcula distribución de bicicletas cuando se elimina una estación de la red.
+-El sistema registra estadÃ­sticas relevantes
+-El sistema actualiza el estado de una estaciÃ³n.
+-El sistema recalcula distribuciÃ³n de bicicletas cuando se informa la caÃ­da de conexiÃ³n con una estaciÃ³n.
+-El sistema recalcula distribuciÃ³n de bicicletas cuando se agrega una estaciÃ³n a la red.
+-El sistema recalcula distribuciÃ³n de bicicletas cuando se elimina una estaciÃ³n de la red.
 
 
