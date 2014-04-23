@@ -20,8 +20,8 @@
           <y:Geometry height="56.565182559010395" width="230.32285395763643" x="541.9815170259213" y="-897.8671363349249"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="custom" textColor="#000000" visible="true" width="155.734375" x="37.29423947881821" y="5.3294662795052545">Mantener[Infraestructura
-de la red en condiciones
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="custom" textColor="#000000" visible="true" width="224.751953125" x="2.7854504163182128" y="5.329466279505141">Mantener[Infraestructura
+de la red de ciclovías en condiciones
 aptas]<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
