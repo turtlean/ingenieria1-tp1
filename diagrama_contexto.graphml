@@ -111,6 +111,36 @@ de estación<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
+    <node id="n6">
+      <data key="d5"/>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="210.33417721518987" width="403.1200000000001" x="1241.4375443037982" y="-352.33437974683545"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="185.59375" modelName="custom" textColor="#000000" visible="true" width="329.41796875" x="28.500863726264697" y="21.873568037974707">El siguiente diagrama fue armado en base a las
+siguientes decisiones en las ramas que constituían 
+o-refinamientos,  respecto a su diagrama de objetivos
+correspondiente:
+
+- Las personas se registran como usuarios de la
+red de ciclovías vía internet.
+- La asistencia personalizada para la registración
+es efectuada en las estaciones por los empleados
+que allí trabajan.
+- Durante las horas pico, la demanda es satisfecha
+agregando mayor cantidad de empleados en las
+estaciones<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="-0.02071381201313538" nodeRatioY="-0.39600564051178344" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
     <edge id="e0" source="n0" target="n2">
       <data key="d10">
         <y:PolyLineEdge>
