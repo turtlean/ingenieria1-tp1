@@ -1,0 +1,97 @@
+\vspace{1cm}
+\textbf{\underline{W: World}}
+
+\begin{itemize}
+\item Usuario va a buscar una bicicleta a una estación de la periferia.
+\item Usuario va a buscar una bicicleta a una estación del centro.
+\item Usuario retira una bicicleta de alguna estación
+\item Usuario devuelve una bicicleta en alguna estación
+\item Usuario se identifica en una estación, presentando DNI.
+\item Usuario se registra en el sistema.
+\item Usuario se desplaza entre estación y estación.
+\item Los camiones de la empresa de transporte proveen una estación con más bicicletas.
+\item Los camiones de la empresa de transporte retiran bicicletas de una estación.
+\item Un empleado de gobierno provee a la empresa de transporte de mayor cantidad de bicicletas.
+\item Empleado de estación rechaza solicitud de retiro de bicicleta debido a penalización.
+\item Una estación no dispone de bicicletas para retirar
+\item Empleado de gobierno inaugura estación añadiéndola a la red de ciclovías.
+\item Empleado de gobierno contrata persona para que trabaje como empleado de estación.
+\item Usuario nunca devuelve una bicicleta
+\item Usuario (que ya dispone de una) solicita otra bicicleta.
+\item Alguien se hace pasar por un usuario para retirar/devolver una bicicleta
+\item La gente se traslada ida y vuelta a su trabajo/casa en una franja horaria reducida, llamada ''hora pico''
+\item Usuario sufre un accidente.
+\item La bicicleta sufre un desperfecto.
+\item Usuario rompe una bicicleta
+\item Usuario no cumple con las normativas para el uso de la red de ciclovías.
+\item Usuario olvida contraseña
+\item Usuario espera por bicicleta
+\item Usuario devuelve una bicicleta que no está en condiciones.
+\item Usuario devuelve una bicicleta fuera de horario.
+\item Usuario devuelve una bicicleta en una estación cerrada
+\item Ninguna estación dispone de bicicletas
+\item Un nuevo usuario no provee la información necesaria para inscribirse.
+\item Empleado le entrega una bicicleta a un usuario que no está registrado.
+\item Empleado le entrega una bicicleta a un usuario que está penalizado.
+\item Gobierno entrega más bicicletas a la empresa de transportes.
+\item Sistema pierde la conexión.
+\item La empresa de transporte no cumple con el tiempo estimado en trasladar las bicicletas.
+\item Una estación queda aislada
+\item La empresa de transporte no se puede movilizar.
+\item Muchos usuarios se registran a la vez.
+\end{itemize}
+
+\vspace{1cm}
+\textbf{\underline{I: Interface}}
+
+\begin{itemize}
+
+\item Empleado de estación envía (via internet) información de autenticación de un usuario para ser validada por el sistema.
+\item Empleado de estación ingresa (via internet) en el sistema modificación de stock de bicicletas.
+\item Empleado de estación ingresa (via internet) en el sistema penalización a usuario.
+\item Empleado de estación ingresa (via internet) información de bicicleta en mal estado.
+\item Empleado de estación envía información de autenticación de un usuario para ser validada por el sistema via SMS, debido
+a la pérdida de conexión de internet de la estación en donde trabaja.
+\item Empleado de estación ingresa en el sistema modificación de stock de bicicletas via SMS, debido
+a la pérdida de conexión de internet de la estación en donde trabaja.
+\item Empleado de estación ingresa en el sistema penalización a usuario via SMS, debido
+a la pérdida de conexión de internet de la estación en donde trabaja.
+\item Empleado de estación ingresa información de bicicleta en mal estado via SMS, debido
+a la pérdida de conexión de internet de la estación en donde trabaja.
+
+
+\item Empleado de gobierno realiza consulta de estadísticas relevantes al sistema.
+\item Empleado de gobierno realiza consulta sugerencias de usuarios al sistema.
+\item Empleado de gobierno ingresa nueva estación al sistema.
+
+\item Sistema solicita a movilización de bicicletas a la empresa de transporte.
+\item Sistema devuelve al empleado de estación el resultado de autenticación válida o inválida
+\item Sistema envía a usuario información de stock de bicicletas disponibles para una determinada estación.
+\item Sistema envía a usuario tiempo restante para que haya una bicicleta disponible en una determinada estación, en el caso
+de que no haya stock.
+\item Sistema envía a usuario información acerca de sus penalizaciones.
+
+\item Usuario se registra en el sistema.
+\item Usuario ingresa sugerencia en el sistema.
+\item Usuario consulta stock de bicicletas en una determinada estación.
+\item Usuario consulta acerca de sus penalizaciones.
+
+\end{itemize}
+
+
+\vspace{1cm}
+\textbf{\underline{M: Machine}}
+
+\begin{itemize}
+\item El sistema calcula el mejor conjunto de estaciones que disponen de bicicletas para otra estación.
+\item El sistema detecta que una estación se ha quedado sin bicicletas.
+\item El sistema detecta que en una estación sobran bicicletas, al contrastar la cantidad actual con los datos
+de las estadísticas recientes.
+\item El sistema actualiza el estado de un usuario.
+\item El sistema detecta una discrepancia entre la solicitud de un usuario y el estado del usuario en el sistema.
+\item El sistema registra estadísticas relevantes
+\item El sistema actualiza el estado de una estación.
+\item El sistema recalcula distribución de bicicletas cuando se agrega una estación a la red.
+\end{itemize}
+
+
