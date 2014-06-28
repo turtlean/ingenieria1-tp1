@@ -1,7 +1,22 @@
-
 Es de nuestro interés exhibir cómo es la interacción entre los distintas entidades del mundo y el sistema que diseñamos.
 
-A continuación presentamos un diagrama de Contexto. Este tipo de diagrama separa los fenómenos de las entidades que los controlan y/o monitorean. Cada una de estas entidades o agentes, cumple un rol determinado e interactúa con otros agentes o con el sistema.
+A continuación presentamos un diagrama de Contexto. Este tipo de diagrama separa los fenómenos de las entidades que los controlan y/o monitorean. Cada una de estas entidades o agentes, cumple un rol determinado e interactúa con otros agentes y/o con el sistema. Además, nos permite mostrar de forma concreta el alcance de nuestro software.
+
+El  diagrama fue armado en base a las siguientes decisiones en las ramas que constituían o-refinamientos en su diagrama de objetivos correspondiente:
+
+\begin{itemize}
+\item Las personas se registran como usuarios de la red de ciclovías vía internet (registración automatizada).
+\item La asistencia personalizada para la registración es efectuada en las estaciones por los empleados que allí trabajan.
+\item Durante las horas pico, la demanda es satisfecha agregando mayor cantidad de empleados en las estaciones.
+\item Los usuarios se registran brindando DNI, mail, teléfono de contacto, domicilio y contraseña para poder loguearse, 
+\end{itemize}
+
+Como en este tipo de diagrama no existe el concepto de herencia entre actores, agregamos (*1) para expresar que el
+empleado de gobierno también controla y monitorea los mismos fenómenos que un empleado de estación. A saber:
+Ingresar bicicleta en mal estado, validar autenticación, modificar stock, ingresar penalizaciones, registrar usuarios y consultar datos de usuario.
+
+(*2) Los usuarios pueden dejar comentarios tanto respecto a salud, funcionamiento general del sistema y lugares donde agregar nuevas estaciones.
+También pueden completar las encuestas en relación a este último punto.
 
 \begin{figure}[H]
 	\begin{center}
@@ -11,7 +26,6 @@ A continuación presentamos un diagrama de Contexto. Este tipo de diagrama separ
 	\end{center}
 \end{figure}
 
-Los eventos relacionados con nuestra red de ciclovías son controlados y monitoreados por distintos agentes. Cada uno de ellos cumple una función única dentro de la red.
 Los usuarios comienzan registrándose por internet brindando los datos requeridos. Entre ellos se destacan principalmente el número de DNI y el nombre completo, ya que ambos serán utilizados
 para validar la identidad cada vez que quieran hacer uso de la red. 
 
