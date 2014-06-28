@@ -38,7 +38,8 @@ red de ciclovías]<y:LabelModel>
           <y:Geometry height="34.0" width="313.2079152731327" x="983.3960423634337" y="329.7384351769083"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.0" modelName="custom" textColor="#000000" visible="true" width="313.2079152731327" x="0.0" y="0.0">Lograr[Usuario puede realizar sugerencias ]<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.0" modelName="custom" textColor="#000000" visible="true" width="313.2079152731327" x="0.0" y="0.0">Lograr[Utilizar información de 
+los usuarios para mejorar la red]<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>

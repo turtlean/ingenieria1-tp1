@@ -655,12 +655,12 @@ mayor capacidad de almacenamiento]<y:LabelModel>
     <node id="n36">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="51.86041203097125" width="386.99852562384604" x="-462.37473028203397" y="-682.4915847992571"/>
+          <y:Geometry height="51.86041203097125" width="425.38193098253237" x="-500.7581356407203" y="-682.4915847992571"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="3.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="custom" textColor="#000000" visible="true" width="307.33984375" x="39.82934093692302" y="2.9770810154856235">Una mayor capacidad en las estaciones del centro
-disminuye la cantidad de intervalos en los que
-la estación se queda sin stock<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="custom" textColor="#000000" visible="true" width="336.33203125" x="44.524949866266184" y="2.9770810154856235">Una mayor capacidad en las 
+estaciones del centro disminuye la cantidad
+ de intervalos en los que la estación se queda sin stock<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1014,7 +1014,9 @@ la estación se queda sin stock<y:LabelModel>
     <edge id="e34" source="n34" target="n1">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="-382.4172515125324" y="-613.0261711322387"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="false"/>
