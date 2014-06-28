@@ -114,10 +114,10 @@ de estación<y:LabelModel>
     <node id="n6">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="200.02936708860744" width="1017.9744303797468" x="15.884533227848465" y="908.490335443038"/>
+          <y:Geometry height="261.5067166326806" width="1017.9744303797468" x="15.884533227848465" y="908.4903354430381"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="143.6875" modelName="custom" textColor="#000000" visible="true" width="934.1640625" x="20.81905295480874" y="20.80192590921297">El siguiente diagrama fue armado en base a las siguientes decisiones en las ramas que constituían o-refinamientos,  respecto a su diagrama de objetivos 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="213.53125" modelName="custom" textColor="#000000" visible="true" width="934.1640625" x="20.81905295480874" y="27.195223498082214">El siguiente diagrama fue armado en base a las siguientes decisiones en las ramas que constituían o-refinamientos,  respecto a su diagrama de objetivos 
 correspondiente:
 
 - Las personas se registran como usuarios de la red de ciclovías vía internet.
@@ -127,6 +127,11 @@ correspondiente:
 Como en este tipo de diagrama no existe el concepto de herencia entre actores, agregamos (*) para expresar que el
 empleado de gobierno también controla y monitorea los mismos fenómenos que un empleado de estación. A saber:
 Ingresar bicicleta en mal estado, validar autenticación, modificar stock, ingresar penalizaciones, registrar usuarios y consultar datos de usuario.
+
+(*2) Los usuarios pueden dejar comentarios tanto respecto a salud, funcionamiento general del sistema y lugares donde agregar nuevas estaciones.
+También pueden completar las encuestas en relación a este último punto.
+
+
 <y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -594,7 +599,10 @@ dar de baja<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="121.0703125" x="970.118244995637" y="-134.26074983634908">agregar sugerencia<y:LabelModel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="127.333984375" x="966.986409058137" y="-148.22949983634896">agregar comentario/
+completar encuesta
+(*2)
+<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -748,7 +756,7 @@ usuario<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="330.337890625" x="259.9764671645653" y="-285.7370007735191">Mismas interacciones que el empleado de estación (*)<y:LabelModel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="337.97265625" x="256.1590843520652" y="-285.73700077351936">Mismas interacciones que el empleado de estación (*1)<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -866,7 +874,6 @@ dar de baja
       </data>
     </edge>
     <edge id="e36" source="n3" target="n0">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
