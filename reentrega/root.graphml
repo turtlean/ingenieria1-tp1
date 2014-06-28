@@ -197,7 +197,7 @@ contribuye a mejorar la salud<y:LabelModel>
     <node id="n10">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="8.75" width="8.75" x="537.9093601895735" y="421.44964454976304"/>
+          <y:Geometry height="8.75" width="8.75" x="530.6701917387536" y="421.44964454976304"/>
           <y:Fill color="#000000" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="2.375" y="2.375">
@@ -266,12 +266,12 @@ contribuye a mejorar la salud<y:LabelModel>
     <node id="n14">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="68.61557150851502" width="264.90718025682617" x="585.6529590515933" y="433.6838549075391"/>
+          <y:Geometry height="68.61557150851502" width="302.4608938052133" x="548.0992455032061" y="433.6838549075391"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="2.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="custom" textColor="#000000" visible="true" width="209.412109375" x="27.74753544091311" y="11.354660754257509">Un transporte público eficiente
-contribuye a disminuir la cantidad
-de autos particulares en tránsito<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="custom" textColor="#000000" visible="true" width="256.134765625" x="23.163064090106673" y="11.354660754257509">Un transporte público
+ eficiente contribuye a disminuir la 
+cantidad de autos particulares en tránsito<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -297,7 +297,7 @@ de autos particulares en tránsito<y:LabelModel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="823.5341394025604" y="527.5263157894738"/>
+            <y:Point x="837.8403159924222" y="527.5263157894738"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
