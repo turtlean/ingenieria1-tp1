@@ -606,7 +606,7 @@ de bicicletas para transportar]<y:LabelModel>
           <y:Geometry height="34.0" width="83.93534002229649" x="-1163.4197594988511" y="-97.76014908268462"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="52.333984375" x="15.80067782364813" y="8.015625">Sistema<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="52.333984375" x="15.800677823648357" y="8.015625">Sistema<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -658,7 +658,7 @@ mayor capacidad de almacenamiento]<y:LabelModel>
           <y:Geometry height="51.86041203097125" width="386.99852562384604" x="-462.37473028203397" y="-682.4915847992571"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="3.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="custom" textColor="#000000" visible="true" width="284.359375" x="51.31957531192302" y="2.9770810154856235">Estaciones del centro con mayor capacidad
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="custom" textColor="#000000" visible="true" width="307.33984375" x="39.82934093692302" y="2.9770810154856235">Una mayor capacidad en las estaciones del centro
 disminuye la cantidad de intervalos en los que
 la estación se queda sin stock<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -992,7 +992,6 @@ la estación se queda sin stock<y:LabelModel>
       </data>
     </edge>
     <edge id="e32" source="n33" target="n25">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1003,7 +1002,6 @@ la estación se queda sin stock<y:LabelModel>
       </data>
     </edge>
     <edge id="e33" source="n35" target="n34">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1014,7 +1012,6 @@ la estación se queda sin stock<y:LabelModel>
       </data>
     </edge>
     <edge id="e34" source="n34" target="n1">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1025,7 +1022,6 @@ la estación se queda sin stock<y:LabelModel>
       </data>
     </edge>
     <edge id="e35" source="n36" target="n1">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
