@@ -74,7 +74,7 @@ empleados en las estaciones]<y:LabelModel>
           <y:Geometry height="43.75" width="200.26079521541146" x="1280.0930637660576" y="803.6488075492553"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="163.404296875" x="18.428249170205845" y="5.90625">Lograr[Incorporar 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="163.404296875" x="18.428249170205618" y="5.90625">Lograr[Incorporar 
 máquinas de autoservicio]<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -144,7 +144,7 @@ gobierno<y:LabelModel>
           <y:Geometry height="34.0" width="113.54168000803818" x="1114.668835710726" y="904.2733080517542"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="82.732421875" x="15.404629066519078" y="1.03125">Empleado de
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="82.732421875" x="15.404629066519192" y="1.03125">Empleado de
 gobierno<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -162,7 +162,7 @@ gobierno<y:LabelModel>
           <y:Geometry height="43.75" width="136.14604608294928" x="1200.8323297229142" y="951.6929572234768"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="103.609375" x="16.268335541474585" y="5.90625">Lograr[Comprar 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="103.609375" x="16.2683355414747" y="5.90625">Lograr[Comprar 
 máquinas]<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -216,7 +216,7 @@ máquina-sistema]<y:LabelModel>
           <y:Geometry height="34.0" width="116.28659791431463" x="1211.3063905798647" y="1042.1267469078093"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="86.546875" x="14.869861457157299" y="1.03125">Empleado de 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="86.546875" x="14.869861457157413" y="1.03125">Empleado de 
 gobierno<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -286,7 +286,7 @@ gobierno<y:LabelModel>
           <y:Geometry height="34.0" width="200.26079521541146" x="1500.5437668483276" y="616.9429143879546"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.0" modelName="custom" textColor="#000000" visible="true" width="200.26079521541146" x="0.0" y="0.0">Lograr[Registrar retiro
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.0" modelName="custom" textColor="#000000" visible="true" width="200.26079521541146" x="2.2737367544323206E-13" y="0.0">Lograr[Registrar retiro
  de bicicleta]<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -393,7 +393,7 @@ estación<y:LabelModel>
           <y:Geometry height="48.81275518279284" width="217.3067761026258" x="895.703936274742" y="442.3713492402537"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.81275518279284" modelName="custom" textColor="#000000" visible="true" width="217.3067761026258" x="0.0" y="5.6843418860808015E-14">Lograr[Brindar interfaz para 
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.81275518279284" modelName="custom" textColor="#000000" visible="true" width="217.3067761026258" x="-1.1368683772161603E-13" y="5.6843418860808015E-14">Lograr[Brindar interfaz para 
 consultar el estado de un 
 usuario rápidamente]<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -429,7 +429,7 @@ usuario rápidamente]<y:LabelModel>
           <y:Geometry height="41.671180989244476" width="261.1764461487087" x="918.5077233050258" y="306.1293383433683"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="41.671180989244476" modelName="custom" textColor="#000000" visible="true" width="261.1764461487087" x="-1.1368683772161603E-13" y="0.0">Lograr[Consultar el estado del 
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="41.671180989244476" modelName="custom" textColor="#000000" visible="true" width="261.1764461487087" x="0.0" y="0.0">Lograr[Consultar el estado del 
 usuario en el sistema rápidamente]<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -484,7 +484,7 @@ una bicicleta si ya tiene una o está penalizado<y:LabelModel>
           <y:Geometry height="49.83298006758554" width="276.00000000000034" x="1816.3960423634335" y="301.83413836567445"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="49.83298006758554" modelName="custom" textColor="#000000" visible="true" width="276.00000000000034" x="-2.2737367544323206E-13" y="5.6843418860808015E-14">Lograr[Retiro de bicicleta por parte
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="49.83298006758554" modelName="custom" textColor="#000000" visible="true" width="276.00000000000034" x="0.0" y="5.6843418860808015E-14">Lograr[Retiro de bicicleta por parte
  de un usuario sin bicicleta y 
 sin penalizaciones]<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -665,7 +665,7 @@ disponibles]<y:LabelModel>
           <y:Geometry height="42.099781866291096" width="290.283148387097" x="1939.2776562381907" y="486.2501289433403"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="2.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="204.830078125" x="42.72653513104842" y="5.081140933145548">Puede haber o no bicicletas 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="204.830078125" x="42.72653513104865" y="5.081140933145548">Puede haber o no bicicletas 
 disponibles en un momento dado<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -701,7 +701,7 @@ que debe esperar]<y:LabelModel>
           <y:Geometry height="41.671180989244476" width="254.03487195516038" x="1939.2776562381907" y="622.6009064456655"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="41.671180989244476" modelName="custom" textColor="#000000" visible="true" width="254.03487195516038" x="0.0" y="0.0">Lograr[Tiempo de espera reducido
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="41.671180989244476" modelName="custom" textColor="#000000" visible="true" width="254.03487195516038" x="2.2737367544323206E-13" y="0.0">Lograr[Tiempo de espera reducido
  para retiro de bicicleta<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>

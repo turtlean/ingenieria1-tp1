@@ -29,6 +29,8 @@ Administrar eficazmente los usuarios, entregando bicis de manera eficaz y recibi
 manera. 
 Junto con ellos pero en menor medida, consideramos que agregar la posibilidad de que los usuarios puedan realizar consultas
 (por ejemplo, conocer la disponibilidad de stock en las distintas estaciones en todo momento) contribuye a cumplir con el mismo.
+Finalmente, para responder a una de las inquietudes planteadas por uno de los usuarios, agregamos la posibilidad de que el 
+sistema siga funcionando a pesar de que se caiga la conexión a internet en alguna de las estaciones.
 
 \subsection{Administración de usuarios eficiente}
 
@@ -44,7 +46,79 @@ alternativas: Brindar asistencia en estaciones, en la oficina central o telefón
 Creemos que brindar asistencia telefónica es la opción más cómoda para los usuarios ya que pueden hacerlo desde sus casas.
 Al mismo tiempo acarrearía el mayor costo, al tener que disponer de un servicio de call center.
 
-\subsection{}
+\subsection{Trámite de registración}
+
+Nuevamente otorgamos dos alternativas: un trámite de registración automatizado mediante la web, en donde los usuarios
+ingresan sus datos de forma remota y otro manual, en donde las personas se acercan a las estaciones u oficina central,
+proporcionan sus datos y un encargado los registra.
+
+\subsection{Trámite de registración automatizado}
+
+Esta es la idea original planteada por los funcionarios de gobierno. Ofrecemos distintas alternativas respecto a la información
+que los usuarios deben proporcionar para registrarse. Cuantos más datos son proporcionados, más verosímil es la identidad del usuario y resulta más fácil evitar la suplantación de identidad (inquietud planteada por posibles usuarios del sistema).
+
+\subsection{Retiro de bicicleta rápido}
+
+Retirar una bicicleta implica conocer el estado del usuario que desea realizar la acción. Es decir, si tiene actualmente un alquiler o está penalizado. En el caso de que esté penalizado, el empleado debe negar el retiro de la bicicleta. En caso
+contrario, debe iniciar el proceso del alquiler. 
+
+En primer lugar, realiza el chequeo de disponibilidad. Cuando hay bicis
+disponibles procede a otrogarle la bicicleta y registrar este hecho en el sistema. La entrega de la bicicleta debe ser rápida.
+Para ello planteamos distintas alternativas que varían en costo. 
+
+En el caso de que no haya disponibilidad, necesitamos minimizar el tiempo de espera. 
+
+\subsection{Tiempo de espera reducido para retiro de bicicleta}
+
+El punto más importante es lograr un sistema de reposición de bicicletas eficiente. Para esto se debe cumplir que la emisión de
+pedidos, movilización de bicicletas y reposición sean cumplidos en tiempo y forma.
+El sistema es el encargado de emitir los pedidos a la empresa de transporte. Para esto tiene en cuenta múltiples factores, entre
+los cuales se destacan el análisis de las estadísticas, si es hora pico o no, la ubicación de las estaciones (centro, periferia)
+, y el estado de las estaciones (si se está por agotar stock). 
+La movilización de bicicletas está a cargo del sistema de transportes. Se espera que se haga en tiempo óptimo.
+La reposición y recepción de bicis es responsabilidad del empleado de estación, al recibir los pedidos.
+
+\subsection{Devolución de bicicleta rápida}
+
+La devolución de bicicleta rápida es responsabilidad principalmente del empleado de estación, quien debe verificar el estado
+de la bici devuelta, registrar las penalizaciones correspondientes en el caso de que se haya incumplido alguna de las normas y
+registrar en el sistema la finalización del alquiler. 
+
+\subsection{Estado de sistema consultable}
+
+Como se mencionó anteriormente, para lograr este objetivo es necesario dotar al sistema con la capacidad de informar a los usuarios acerca del stock de cada estación y además del estado personal de dicho usuario.
+
+\subsection{Funcionalidad con red caída}
+
+En pocas palabras, resulta muy importante que el sistema pueda seguir funcionando ante una eventual pérdida de conexión a
+internet, tanto en una de las estaciones como en el lugar en donde está alojado el servidor. Para ello, proponemos como 
+alternativa la utilización de SMS's que sirvan para el intercambio de datos mediante un protocolo preestablecido.
+Gracias a ello, los empleados pueden seguir registrando eventos y realizando consultas, y el sistema puede continuar 
+realizando pedidos a la empresa de transporte de bicicletas.
+
+\subsection{Infraestructura}
+
+Para poder proveer un servicio confiable, es necesario que la red de ciclovías esté en buenas condiciones. En lo que al sistema
+concierne, es necesario que las bicicletas estén aptas para ser utilizadas. Por lo tanto los empleados deben ser capaces de
+reportar cuando una bicicleta está en malas condiciones.  
+
+\subsection{Mayor exposición de la red de ciclovías}
+
+Consideramos que deberá destinarse a un 
+equipo de empleados de gobierno como encargados de publicitar la red de ciclovías, y darla a conocer a los habitantes a través de redes sociales, campañas publicitarias que promuevan los beneficios de salud
+
+\subsection{Utilizar información de usuarios}
+
+Para mejorar el servicio de la ciclovía, es necesario que los usuarios puedan enviar sus opiniones, quejas y sugerencias así
+mismo donde les gustaría ver inauguradas nuevas estaciones. Incluimos la posibilidad de enviar comentarios respecto a las 
+mejoras de salud que han experimentado los usuarios con el uso la red, ya que contribuye a cumplir uno de los objetivos
+más relevantes: mejorar la salud de los habitantes.
+
+
+
+
+
+
 
 
 
