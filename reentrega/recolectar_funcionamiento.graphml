@@ -74,7 +74,7 @@ los usuarios dejen sus comentarios]<y:LabelModel>
     <node id="n3">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="56.5" width="259.2079152731327" x="1282.2261562817184" y="429.07178394582434"/>
+          <y:Geometry height="56.5" width="259.2079152731327" x="1121.8632056777326" y="429.07178394582434"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="56.5" modelName="custom" textColor="#000000" visible="true" width="259.2079152731327" x="0.0" y="0.0">Lograr[Almacenar los comentarios 
@@ -113,7 +113,7 @@ usuarios]<y:LabelModel>
           <y:Geometry height="34.0" width="125.26079521541149" x="909.6288504334603" y="533.3300784944618"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="52.333984375" x="36.463405420205845" y="8.015625">Sistema<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="52.333984375" x="36.46340542020573" y="8.015625">Sistema<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -127,7 +127,7 @@ usuarios]<y:LabelModel>
     <node id="n6">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="34.0" width="125.26079521541149" x="1349.1997163105789" y="533.3300784944618"/>
+          <y:Geometry height="34.0" width="125.26079521541149" x="1188.836765706593" y="533.3300784944618"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="52.333984375" x="36.463405420205845" y="8.015625">Sistema<y:LabelModel>
